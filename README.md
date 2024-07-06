@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jplemosx
-- 👀 I’m interested in the Future of Work and Lear-to-Earn and.
+- 👀 I’m interested in the Future of Work and the Lear-to-Earn movement.
 - 🌱 I’m currently developing my skills in ReactJS and TypeScript!
 - 🚀 I’m looking to collaborate on cool projects that create value and opportunities for other people.
 
