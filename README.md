@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jplemosx
-- 👀 I’m interested in the Future of Work and the Lear-to-Earn movement.
-- 🌱 I’m currently developing my skills in ReactJS and TypeScript!
-- 🚀 I’m looking to collaborate on cool projects that create value and opportunities for other people.
+- 👨🏽‍💻 I’m interested in the Future of Work and Lear-to-Earn movement.
+- 🚀 Open to contributing to projects that create value and opportunities for others.
 
 <!---
 jplemosx/jplemosx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
